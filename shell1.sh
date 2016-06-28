@@ -1,4 +1,4 @@
 
-cat karthik.html
-rm /var/www/html/karthik.html
-cp karthik.html /var/www/html/
+cat karthikpaidi.html
+rm /var/www/html/karthikpaidi.html
+cp karthikpaidi.html /var/www/html/
